@@ -1,4 +1,4 @@
 weixin_sdk
 ==========
 
-A Weixin SDK used by pyhon
+A Weixin SDK used by python
