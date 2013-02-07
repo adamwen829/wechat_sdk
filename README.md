@@ -5,8 +5,8 @@ A Wechat SDK used by python
 
 注意事项
 ------------------
-1.将在公共平台上创建的token写入settings.py
-2.由于腾讯官方限制 只支持80端口
+- 将在公共平台上创建的token写入settings.py
+- 由于腾讯官方限制 只支持80端口
 
 
 使用说明
