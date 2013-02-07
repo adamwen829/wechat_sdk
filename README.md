@@ -12,10 +12,10 @@ A Wechat SDK used by python
 使用说明
 ------------------
 1.验证api:
-    Weixin.valid(signature, timestamp, nonce)
+    Weixin.valid(signature, timestamp, nonce)  
     验证成功返回True, 失败返回False
 
-2.处理用户请求:
+2.处理用户请求:  
     1.初始化WeChat对象
         wechat = WeChat(xml_raw_data)
 
